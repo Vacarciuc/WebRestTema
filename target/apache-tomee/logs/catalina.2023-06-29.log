@@ -1,0 +1,121 @@
+29-Jun-2023 14:45:32.025 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.74 (8.0.15)
+29-Jun-2023 14:45:32.026 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server built:          Apr 13 2023 08:10:39 UTC
+29-Jun-2023 14:45:32.026 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.74.0
+29-Jun-2023 14:45:32.026 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+29-Jun-2023 14:45:32.026 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+29-Jun-2023 14:45:32.027 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+29-Jun-2023 14:45:32.027 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Users\enigma\.jdks\corretto-11.0.19
+29-Jun-2023 14:45:32.027 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Version:           11.0.19+7-LTS
+29-Jun-2023 14:45:32.027 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Amazon.com Inc.
+29-Jun-2023 14:45:32.027 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee
+29-Jun-2023 14:45:32.027 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee
+29-Jun-2023 14:45:32.057 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+29-Jun-2023 14:45:32.057 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+29-Jun-2023 14:45:32.058 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+29-Jun-2023 14:45:32.058 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+29-Jun-2023 14:45:32.059 INFO [main] jdk.internal.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+29-Jun-2023 14:45:32.060 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+29-Jun-2023 14:45:32.060 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\conf\logging.properties
+29-Jun-2023 14:45:32.060 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\lib\openejb-javaagent.jar
+29-Jun-2023 14:45:32.060 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Jun-2023 14:45:32.060 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\temp
+29-Jun-2023 14:45:32.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee
+29-Jun-2023 14:45:32.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee
+29-Jun-2023 14:45:32.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\lib
+29-Jun-2023 14:45:32.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+29-Jun-2023 14:45:32.061 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+29-Jun-2023 14:45:32.074 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\enigma\.jdks\corretto-11.0.19\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\apache-maven-3.8.8\apache-maven-3.8.8\bin;C:\Users\enigma\Downloads\2\bin\server\bin;C:\Users\enigma\AppData\Local\Microsoft\WindowsApps;C:\Users\enigma\AppData\Local\Programs\Microsoft VS Code\bin;;.]
+29-Jun-2023 14:45:32.787 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+29-Jun-2023 14:45:33.441 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+29-Jun-2023 14:45:33.459 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+29-Jun-2023 14:45:33.601 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+29-Jun-2023 14:45:33.601 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB https://tomee.apache.org/
+29-Jun-2023 14:45:33.601 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Thu Jun 29 14:45:33 EEST 2023
+29-Jun-2023 14:45:33.602 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2023 (C) Apache TomEE Project, All Rights Reserved.
+29-Jun-2023 14:45:33.603 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.15
+29-Jun-2023 14:45:33.603 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20230508
+29-Jun-2023 14:45:33.604 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 02:30
+29-Jun-2023 14:45:33.604 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+29-Jun-2023 14:45:33.605 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee
+29-Jun-2023 14:45:33.605 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee
+29-Jun-2023 14:45:33.611 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@18b0930f
+29-Jun-2023 14:45:33.615 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+29-Jun-2023 14:45:33.695 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\conf\tomee.xml'
+29-Jun-2023 14:45:33.788 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+29-Jun-2023 14:45:33.792 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+29-Jun-2023 14:45:33.797 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+29-Jun-2023 14:45:33.797 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+29-Jun-2023 14:45:33.803 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+29-Jun-2023 14:45:33.899 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+29-Jun-2023 14:45:34.068 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+29-Jun-2023 14:45:34.494 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+29-Jun-2023 14:45:34.494 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+29-Jun-2023 14:45:34.495 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+29-Jun-2023 14:45:34.495 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+29-Jun-2023 14:45:34.496 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [2935] milliseconds
+29-Jun-2023 14:45:34.595 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+29-Jun-2023 14:45:34.596 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+29-Jun-2023 14:45:34.627 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+29-Jun-2023 14:45:34.628 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.74 (8.0.15)]
+29-Jun-2023 14:45:34.656 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful.war]
+29-Jun-2023 14:45:34.668 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /RESTful
+29-Jun-2023 14:45:34.672 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful.war
+29-Jun-2023 14:45:35.152 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful
+29-Jun-2023 14:45:35.153 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+29-Jun-2023 14:45:35.695 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful
+29-Jun-2023 14:45:35.922 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+29-Jun-2023 14:45:35.923 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean RESTful.Comp150079886: Container(type=MANAGED, id=Default Managed Container)
+29-Jun-2023 14:45:35.924 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+29-Jun-2023 14:45:35.942 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\temp for stateful session passivation
+29-Jun-2023 14:45:35.998 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful" loaded.
+29-Jun-2023 14:45:36.250 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful
+29-Jun-2023 14:45:36.517 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful)
+29-Jun-2023 14:45:36.835 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Using org.apache.myfaces.ee.MyFacesContainerInitializer
+29-Jun-2023 14:45:36.984 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Jun-2023 14:45:39.017 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logApplication Application{path='http://localhost:8080/RESTful/', class=org.apache.openejb.server.rest.InternalApplication, resources=1, providers=0, invalids=0}
+29-Jun-2023 14:45:39.017 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logApplication Resource{clazz=service.MyService, discovered=false, singleton=false}
+29-Jun-2023 14:45:39.394 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using readers:
+29-Jun-2023 14:45:39.394 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@749baa0c
+29-Jun-2023 14:45:39.395 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@600bbf9e
+29-Jun-2023 14:45:39.395 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@18d30e7
+29-Jun-2023 14:45:39.395 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@72b40f87
+29-Jun-2023 14:45:39.395 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@2475fba3
+29-Jun-2023 14:45:39.396 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@19bf47fc
+29-Jun-2023 14:45:39.396 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@1b3bec6c
+29-Jun-2023 14:45:39.396 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@71dd4624
+29-Jun-2023 14:45:39.396 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@53f7a906
+29-Jun-2023 14:45:39.396 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@2154652c
+29-Jun-2023 14:45:39.396 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@8b670c0
+29-Jun-2023 14:45:39.397 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using writers:
+29-Jun-2023 14:45:39.398 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@2475fba3
+29-Jun-2023 14:45:39.398 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@1b3bec6c
+29-Jun-2023 14:45:39.398 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.johnzon.jaxrs.WadlDocumentMessageBodyWriter@4c2ab536
+29-Jun-2023 14:45:39.398 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.nio.NioMessageBodyWriter@22fb9a2c
+29-Jun-2023 14:45:39.399 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@53f7a906
+29-Jun-2023 14:45:39.399 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@749baa0c
+29-Jun-2023 14:45:39.399 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@600bbf9e
+29-Jun-2023 14:45:39.399 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@18d30e7
+29-Jun-2023 14:45:39.400 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@19bf47fc
+29-Jun-2023 14:45:39.400 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@72b40f87
+29-Jun-2023 14:45:39.401 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@71dd4624
+29-Jun-2023 14:45:39.401 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@2154652c
+29-Jun-2023 14:45:39.401 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@8b670c0
+29-Jun-2023 14:45:39.402 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using exception mappers:
+29-Jun-2023 14:45:39.402 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper@6481dce5
+29-Jun-2023 14:45:39.402 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.EJBExceptionMapper@38bc5ac0
+29-Jun-2023 14:45:39.402 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.validation.ValidationExceptionMapper@12365bd8
+29-Jun-2023 14:45:39.402 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.CxfRsHttpListener$CxfResponseValidationExceptionMapper@14874a5d
+29-Jun-2023 14:45:39.406 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints REST Application: http://localhost:8080/RESTful/                                           -> org.apache.openejb.server.rest.InternalApplication@5f883d90
+29-Jun-2023 14:45:39.411 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8080/RESTful/AddService/{word}/{firstLang}/{secondLang} -> Pojo service.MyService
+29-Jun-2023 14:45:39.411 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/RESTful/AddService/{word}/{firstLang}/{secondLang} ->      String getMessage(String, String, String) throws XMLStreamException,FileNotFoundException
+29-Jun-2023 14:45:39.451 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful.war] has finished in [4,795] ms
+29-Jun-2023 14:45:39.706 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [235] milliseconds.
+29-Jun-2023 14:45:39.711 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8080"]
+29-Jun-2023 14:45:39.731 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [5234] milliseconds
+29-Jun-2023 14:47:20.469 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+29-Jun-2023 14:47:20.469 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Pausing ProtocolHandler ["http-nio-8080"]
+29-Jun-2023 14:47:20.662 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Stopping service [Catalina]
+29-Jun-2023 14:47:20.682 INFO [main] org.apache.openejb.assembler.classic.Assembler.destroyApplication Undeploying app: C:\Users\enigma\Downloads\restDownload\WebRestTema\target\apache-tomee\webapps\RESTful
+29-Jun-2023 14:47:20.763 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Stopping ProtocolHandler ["http-nio-8080"]
+29-Jun-2023 14:47:20.783 INFO [main] org.apache.openejb.server.SimpleServiceManager.stop Stopping server services
+29-Jun-2023 14:47:20.800 INFO [main] jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke Destroying ProtocolHandler ["http-nio-8080"]
