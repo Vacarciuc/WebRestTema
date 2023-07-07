@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <root>
+        <continent continentCode="Europe">
+            <city cityCode="Amsterdam">
+                <utc>+01:00</utc>
+            </city>
+            <city cityCode="Andorra">
+                <utc>+01:00</utc>
+            </city>
+            <city cityCode="Astrakhan">
+                <utc>+04:00</utc>
+            </city>
+            <city cityCode="Belgrade">
+                <utc>+01:00</utc>
+            </city>
+            <city cityCode="Bucharest">
+                <utc>+02:00</utc>
+            </city>
+        </continent>
+        <continent continentCode="Asia">
+            <city cityCode="Vietnam">
+                <utc>+07:00</utc>
+            </city>
+            <city cityCode="Kuwait">
+                <utc>+03:00</utc>
+            </city>
+            <city cityCode="Dubai">
+                <utc>+04:00</utc>
+            </city>
+        </continent>
+    </root>
